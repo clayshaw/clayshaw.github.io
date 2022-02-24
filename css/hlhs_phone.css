@@ -1,5 +1,8 @@
-﻿.li-pm{
-
+﻿.my-cls{
+    background-color:white;
+    width: 20%;
+    border-radius: 10px;
+    float: left;
 }
 .my-photo{
     width: .9em; 
