@@ -10,6 +10,7 @@
     padding: 0px;
     width: 10px;
     list-style:none;
+    display: inline;
 }
 .ul-pm{
     background-color: white;
