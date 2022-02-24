@@ -1,0 +1,29 @@
+﻿.block-pm{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    padding-right: 10px;
+    margin: 30px;
+}
+.li-pm{
+    margin: 0px;
+    padding: 0px;
+    width: 10px;
+    list-style:none;
+}
+.ul-pm{
+    background-color: white;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.my-photo{
+    width: .9em; 
+    height: .9em;
+}
+.input-pm{
+    margin: 0px;
+    padding: 0px;
+}
